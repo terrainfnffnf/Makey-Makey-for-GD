@@ -1,0 +1,14 @@
+MakeyMakey.set_simulator_keymap(MakeyMakey.PlayerNumber.ONE,
+    MakeyMakey.MakeyMakeyKey.UP,
+    MakeyMakey.MakeyMakeyKey.DOWN,
+    MakeyMakey.MakeyMakeyKey.LEFT,
+    MakeyMakey.MakeyMakeyKey.RIGHT,
+    MakeyMakey.MakeyMakeyKey.W,
+    MakeyMakey.MakeyMakeyKey.UP)
+MakeyMakey.set_simulator_keymap(MakeyMakey.PlayerNumber.ONE,
+    MakeyMakey.MakeyMakeyKey.UP,
+    MakeyMakey.MakeyMakeyKey.DOWN,
+    MakeyMakey.MakeyMakeyKey.LEFT,
+    MakeyMakey.MakeyMakeyKey.RIGHT,
+    MakeyMakey.MakeyMakeyKey.LEFT_CLICK,
+    MakeyMakey.MakeyMakeyKey.UP)
